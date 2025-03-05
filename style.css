@@ -1,0 +1,80 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+
+body {
+  font-family: Georgia, serif;
+  font-size: 100%;
+  line-height: 175%;
+  margin: 0 15% 0;
+  color:slategray;
+   background: #FAF0E6 url(pinkhearts.png) center 10px fixed;
+  text-align: center;
+  
+}
+
+
+img{
+  outline: 5px solid #FF1493;
+  display:block;
+  margin-left:auto;
+  margin-right: auto; 
+  margin-top:15px;
+}
+
+
+
+h1 {
+   font-family: 'Brush Script MT', cursive;
+  font-size: 55px; 
+  font-weight: 400; 
+  text-align: center; 
+   text-shadow: .05em .05em .1em #FF1493;
+  color:linen;
+    margin-top: 0;
+}
+
+
+
+h2 {
+color:palevioletred;
+  font-size: 25px;
+ letter-spacing: .2em;
+}
+
+
+a:link {
+  color: slategray; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: deeppink;
+}
+
+a:focus, a:hover {
+  color: #DA70D6;
+  background-color: #fff; 
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+}
+
+a:focus {
+  outline: 2px solid #ff4081; 
+}
+
+ul {list-style-position: inside;
+  list-style-image: url('pinkbarbienew.png');
+}
+
+
+
+header {
+	background-color: rgba(219, 112, 147,.7);
+	color:  linen;
+}
+
+
