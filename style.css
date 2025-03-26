@@ -34,13 +34,29 @@ h1 {
     margin-top: 0;
 }
 
-
+#contact-info h1 {
+  color: linen;
+}
 
 h2 {
 color:palevioletred;
   font-size: 25px;
  letter-spacing: .2em;
 }
+
+h2 {
+  font-family: 'Georgia', serif;
+  text-transform: uppercase;
+  border-bottom: 2px solid #FF1493;
+  padding-bottom: 5px;
+}
+
+.special-projects {
+  border: 2px solid #FF1493; /* Barbie pink! */
+  padding: 15px;
+  background-color: #fff0f5; /* Light pink background */
+}
+
 
 
 a:link {
